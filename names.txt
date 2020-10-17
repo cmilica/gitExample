@@ -1,2 +1,3 @@
-boss, cmilica, Cvetkovic, Milica
+role,NetID,FamilyName,GivenName
+boss,cmilica,Cvetkovic,Milica
 employee,mli653,Li,Mengqi
